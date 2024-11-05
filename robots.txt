@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://itaciose.github.io/Lla/sitemap_index.txt
+Sitemap: https://itaciose.github.io/NwC/sitemap_index.txt
+Sitemap: https://itaciose.github.io/iUg/sitemap_index.txt
+Sitemap: https://itaciose.github.io/jkn/sitemap_index.txt
